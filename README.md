@@ -10,7 +10,7 @@
 Archy creates an attachements directory for attachements. And creates a file for each channel on the server to store messages in text format. This script serves the simple purpose of keeping a very barebones record of messages and media on a server.
 
 **Usage:**
-
+```
 usage: main.py [-h] --token TOKEN --dir DIR
 
 optional arguments:
@@ -19,3 +19,4 @@ optional arguments:
                         Enter app token:
   --dir DIR, -d DIR     Enter archive location:
 
+```
